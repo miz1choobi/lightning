@@ -1,5 +1,4 @@
 #! /usr/bin/make
-
 CHANNELD_HEADERS :=			\
 	channeld/full_channel_error_names_gen.h	\
 	channeld/channeld_wiregen.h		\
